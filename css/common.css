@@ -1,0 +1,23 @@
+/*初始化*/
+*{
+	margin:0;
+	padding:0;
+}
+ul{
+	list-style: none;
+}
+html{
+	font-size: 12px;
+	color: #000;
+	text-decoration: none;
+}
+a{
+color: #000;
+	text-decoration: none;	
+}
+a:hover{
+	color: red;
+}
+ul li a:hover{
+	color: red;
+}
